@@ -28,6 +28,7 @@
 </LinearLayout>
 
     <Button
+        android:id="@+id/police_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/police_button_label"
